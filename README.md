@@ -2,6 +2,7 @@
 Shift registers are integral components in digital electronics, enabling efficient data management and transfer. When working with microcontrollers like Arduino, shift registers expand the number of inputs and outputs, making them essential for projects involving numerous LEDs, buttons, or other peripherals.  
 
 ├ src  
+│  ├ 74HC165  
 │  └ 74HC595  
 └ schema  
 
@@ -10,6 +11,7 @@ Discover a world of knowledge hosted on [HiBit](https://www.hibit.dev). Serving 
 
 You'll find detailed instructions and comprehensive documentation for this repository on:
 - [Understanding SIPO Shift Registers](https://www.hibit.dev/posts/197/understanding-sipo-shift-registers)
+- [Understanding PISO Shift Registers](https://www.hibit.dev/posts/200/understanding-piso-shift-registers)
 
 The documentation offers clear guidance on wiring and using the device, providing practical insights for a smooth integration into your projects. Take a closer look at the documentation to enhance your understanding, and don't hesitate to reach out for any specific guidance or support.
 
